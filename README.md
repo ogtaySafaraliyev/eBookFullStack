@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8f3f954b-98c0-4193-8d65-6ce4e95f6669)# 📚 eBook Full Stack Application
+# 📚 eBook Full Stack Application
 
 ## 🧩 What Problem Does the Project Solve? Or, What It Does?
 
@@ -97,7 +97,7 @@ Home page
 
 
 
-
+![image](https://github.com/user-attachments/assets/8f3f954b-98c0-4193-8d65-6ce4e95f6669)
 
 
 
