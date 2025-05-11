@@ -69,10 +69,15 @@ This application replaces traditional library systems and mitigates the challeng
 ## 📸 Screenshots
 
 <!-- Replace the below image placeholders with real screenshots when available -->
+Home page
+![image](https://github.com/user-attachments/assets/b5a0d6af-d510-48e3-b3f3-559e4c18409a)
+![image](https://github.com/user-attachments/assets/aeacaeef-7666-4369-ba3d-bbc324dd9d95)
 
-| Login Page               | Book List               |
-|--------------------------|-------------------------|
-| ![](screenshots/login.png) | ![](screenshots/book-list.png) |
+
+
+| Login Page                                                                                       | Book List               |
+|--------------------------------------------------------------------------------------------------|-------------------------|
+| ![image](https://github.com/user-attachments/assets/f89b924c-bd43-4860-aeba-7f382c9acb13)        | ![](screenshots/book-list.png) |
 
 | Book Details             | Admin Panel             |
 |--------------------------|-------------------------|
