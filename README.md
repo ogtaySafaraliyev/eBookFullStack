@@ -17,7 +17,7 @@ This application replaces traditional library systems and mitigates the challeng
 
 ### Backend
 
-- **Java + Spring Boot**  
+- **Java + Servlet (Apache Tomcat)**  
   Chosen for its mature ecosystem, dependency injection capabilities, and ability to create RESTful APIs efficiently. Spring Boot provides auto-configuration, robust security, and scalability.
 
 - **MySQL**  
@@ -25,10 +25,10 @@ This application replaces traditional library systems and mitigates the challeng
 
 ### Frontend
 
-- **React**  
+- **JSP**  
   Enables a dynamic, component-based UI. React's virtual DOM allows fast rendering and state management for interactive interfaces.
 
-- **Bootstrap**  
+- **Bootstrap 4**  
   Used for mobile-first, responsive design. It helps maintain consistent UI/UX styling and provides ready-to-use components.
 
 ---
@@ -50,19 +50,16 @@ This application replaces traditional library systems and mitigates the challeng
 - 🛠️ **Admin Panel**  
   Admin can add/edit/delete books and manage users
 
-- 📥 **Download or Read**  
-  Users can read eBooks in-browser or download if permitted
-
 ---
 
 ## 🚀 Technologies Used
 
-| Layer       | Technologies                      |
-|-------------|-----------------------------------|
-| **Frontend**| React, Bootstrap, HTML, CSS       |
-| **Backend** | Java, Spring Boot, Spring Security|
-| **Database**| MySQL                             |
-| **Tools**   | Postman, Git, GitHub              |
+| Layer       | Technologies                        |
+|-------------|-------------------------------------|
+| **Frontend**| Bootstrap 4, HTML5, CSS3, JSTL, JSP |
+| **Backend** | Java EE, Apache Tomcat              |
+| **Database**| MySQL Workbench, JDBC               |
+| **Tools**   | Git, GitHub                         |
 
 ---
 
@@ -77,24 +74,26 @@ Home page
 
 | Login Page                                                                                   | Register page                                                                              | Book List               |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/f89b924c-bd43-4860-aeba-7f382c9acb13)    | ![image](https://github.com/user-attachments/assets/4b801449-a6cc-432b-aeda-343ba0bfd211)
- | ![](screenshots/book-list.png) |
+| ![image](https://github.com/user-attachments/assets/f89b924c-bd43-4860-aeba-7f382c9acb13)    | ![image](https://github.com/user-attachments/assets/4b801449-a6cc-432b-aeda-343ba0bfd211)  | ![](screenshots/book-list.png) |
 
 | Book Details             | Admin Panel                       | something about admin                                                                                         |                         
 |--------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------|
 | ![](screenshots/book-detail.png) | ![](screenshots/admin.png) | ![image](https://github.com/user-attachments/assets/b0d99f41-aee5-4c5a-bbe5-f04ed150a752)
 
-| Edit profile page                                                                         | Settings page                        | Contact page                                                                                         |                         
+| Edit profile page                                                                         | Settings page                        | Contact page                                                                 |                                               
 |----------------------------------------------------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------|
 | ![image](https://github.com/user-attachments/assets/455ef933-352b-4e19-bf11-a71a34dbd453) | ![](screenshots/admin.png) | ![image](https://github.com/user-attachments/assets/b0d99f41-aee5-4c5a-bbe5-f04ed150a752)
 
 
 
-| User Order Page                                                                           | User Location Page                                                                        | Contact page    4645                                                  
-|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/1c849dcf-9013-416b-ae24-c34c189147bd) | ![image](https://github.com/user-attachments/assets/e349b7ab-e5a3-4000-811c-0d67e62193eb) | ![image](https://github.com/user-attachments/assets/b0d99f41-aee5-4c5a-bbe5-f04ed150a752)
+| User Order Page                                                                           | User Location Page                                                                        |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/1c849dcf-9013-416b-ae24-c34c189147bd) | ![image](https://github.com/user-attachments/assets/e349b7ab-e5a3-4000-811c-0d67e62193eb) | 
 
 
+| User Order Page                                                                           | User Logout Page                                                                          |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/1c849dcf-9013-416b-ae24-c34c189147bd) | ![image](https://github.com/user-attachments/assets/30fd558d-e36c-43ea-810c-86e99c540ffd) | 
 
 
 
