@@ -56,10 +56,11 @@ This application replaces traditional library systems and mitigates the challeng
 
 | Layer       | Technologies                        |
 |-------------|-------------------------------------|
-| **Frontend**| Bootstrap 4, HTML5, CSS3, JSTL, JSP |
-| **Backend** | Java EE, Apache Tomcat              |
-| **Database**| MySQL Workbench, JDBC               |
-| **Tools**   | Git, GitHub                         |
+|     **Frontend**   | Bootstrap 4, HTML5, CSS3, JSTL, JSP |
+|     **Backend**    | Java EE, Apache Tomcat              |
+|    **Database**    | MySQL Workbench, JDBC               |
+|      **Tools**     | Git, GitHub, Eclipse IDE            |
+|  **Dependencies**  | JSTL, Junit                         |
 
 ---
 
