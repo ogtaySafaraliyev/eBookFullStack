@@ -91,4 +91,15 @@ This application replaces traditional library systems and mitigates the challeng
 ---
 
 ## 📂 Project Structure (Simplified)
+eBookFullStack/
+├── backend/
+│ ├── src/
+│ ├── pom.xml
+│ └── ...
+├── frontend/
+│ ├── public/
+│ ├── src/
+│ └── package.json
+├── README.md
+└── ...
 
