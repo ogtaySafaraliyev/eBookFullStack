@@ -1,4 +1,4 @@
-# 📚 eBook Full Stack Application
+![image](https://github.com/user-attachments/assets/8f3f954b-98c0-4193-8d65-6ce4e95f6669)# 📚 eBook Full Stack Application
 
 ## 🧩 What Problem Does the Project Solve? Or, What It Does?
 
@@ -75,13 +75,32 @@ Home page
 
 
 
-| Login Page                                                                                       | Book List               |
-|--------------------------------------------------------------------------------------------------|-------------------------|
-| ![image](https://github.com/user-attachments/assets/f89b924c-bd43-4860-aeba-7f382c9acb13)        | ![](screenshots/book-list.png) |
+| Login Page                                                                                   | Register page                                                                              | Book List               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/f89b924c-bd43-4860-aeba-7f382c9acb13)    | ![image](https://github.com/user-attachments/assets/4b801449-a6cc-432b-aeda-343ba0bfd211)
+ | ![](screenshots/book-list.png) |
 
-| Book Details             | Admin Panel             |
-|--------------------------|-------------------------|
-| ![](screenshots/book-detail.png) | ![](screenshots/admin.png) |
+| Book Details             | Admin Panel                       | something about admin                                                                                         |                         
+|--------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------|
+| ![](screenshots/book-detail.png) | ![](screenshots/admin.png) | ![image](https://github.com/user-attachments/assets/b0d99f41-aee5-4c5a-bbe5-f04ed150a752)
+
+| Edit profile page                                                                         | Settings page                        | Contact page                                                                                         |                         
+|----------------------------------------------------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/455ef933-352b-4e19-bf11-a71a34dbd453) | ![](screenshots/admin.png) | ![image](https://github.com/user-attachments/assets/b0d99f41-aee5-4c5a-bbe5-f04ed150a752)
+
+
+
+| User Order Page                                                                           | User Location Page                                                                        | Contact page    4645                                                  
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/1c849dcf-9013-416b-ae24-c34c189147bd) | ![image](https://github.com/user-attachments/assets/e349b7ab-e5a3-4000-811c-0d67e62193eb) | ![image](https://github.com/user-attachments/assets/b0d99f41-aee5-4c5a-bbe5-f04ed150a752)
+
+
+
+
+
+
+
+
 
 | Mobile View              | Search Functionality    |
 |--------------------------|-------------------------|
