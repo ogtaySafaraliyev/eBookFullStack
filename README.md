@@ -2,12 +2,13 @@
 
 ## 🧩 What Problem Does the Project Solve? Or, What It Does?
 
-The **eBook Full Stack** application is a full-fledged web platform where users can browse, purchase, and read eBooks online. The goal is to create a digital library system that:
+The **eBook Full Stack** application is a full-fledged web platform where users can browse, add to cart, and purchase Books. The goal is to create a digital library system that:
 
 - Allows readers to access eBooks from anywhere
 - Provides a clean, responsive UI for a pleasant reading experience
 - Offers an admin panel for content management
 - Ensures secure user authentication and session management
+- Let users add eBooks to a cart for managing selected items
 
 This application replaces traditional library systems and mitigates the challenges of managing and accessing physical books.
 
@@ -18,7 +19,7 @@ This application replaces traditional library systems and mitigates the challeng
 ### Backend
 
 - **Java + Servlet (Apache Tomcat)**  
-  Chosen for its mature ecosystem, dependency injection capabilities, and ability to create RESTful APIs efficiently. Spring Boot provides auto-configuration, robust security, and scalability.
+  A lightweight, flexible backend built using raw Java Servlets hosted on Apache Tomcat. This choice avoids the complexity of heavier frameworks like Spring Boot while maintaining control over HTTP requests and business logic.
 
 - **MySQL**  
   A stable, relational database that stores user data, book information, and purchase history with structured schema relationships.
@@ -43,6 +44,9 @@ This application replaces traditional library systems and mitigates the challeng
 
 - 🔍 **Search & Filtering**  
   Find books by title, author, or genre
+
+- 🛒 **Add to Cart:**  
+  Users can add eBooks to their cart and manage them before finalizing their selection.
 
 - 🖥️ **Responsive Design**  
   Fully functional on desktop and mobile devices
