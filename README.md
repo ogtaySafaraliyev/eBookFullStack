@@ -98,13 +98,17 @@ Admin operations
 
 User operations
 
-| Edit profile page                                                                         | Settings page                        | Contact page                                                                 |                                               
-|----------------------------------------------------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/455ef933-352b-4e19-bf11-a71a34dbd453) | ![](screenshots/admin.png) | ![image](https://github.com/user-attachments/assets/b0d99f41-aee5-4c5a-bbe5-f04ed150a752)
+| Settings page                                                                             | Sell Old Book Page                                                                        |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/8f3f954b-98c0-4193-8d65-6ce4e95f6669) | ![image](https://github.com/user-attachments/assets/714009f3-0a9c-4d6f-91b2-ce43669f3732) | 
 
 
+| Edit Profile Page                                                                         | Contact page                                                                              |                                               
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/455ef933-352b-4e19-bf11-a71a34dbd453) | ![image](https://github.com/user-attachments/assets/b0d99f41-aee5-4c5a-bbe5-f04ed150a752) |
 
-| User Order Page                                                                           | User Location Page                                                                        |
+
+| User Orders Page                                                                          | User Location Page                                                                        |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | ![image](https://github.com/user-attachments/assets/1c849dcf-9013-416b-ae24-c34c189147bd) | ![image](https://github.com/user-attachments/assets/e349b7ab-e5a3-4000-811c-0d67e62193eb) | 
 
@@ -115,17 +119,8 @@ User operations
 
 
 
-![image](https://github.com/user-attachments/assets/8f3f954b-98c0-4193-8d65-6ce4e95f6669)
 
 
-
-| Mobile View              | Search Functionality    |
-|--------------------------|-------------------------|
-| ![](screenshots/mobile.png) | ![](screenshots/search.png) |
-
-| Responsive Layout        |
-|--------------------------|
-| ![](screenshots/responsive.png) |
 
 > 📌 *Please upload these screenshots in a folder named `screenshots/` inside the project directory.*
 
