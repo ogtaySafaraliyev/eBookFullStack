@@ -73,13 +73,40 @@ Home page
 
 
 
-| Login Page                                                                                   | Register page                                                                              | Book List               |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/f89b924c-bd43-4860-aeba-7f382c9acb13)    | ![image](https://github.com/user-attachments/assets/4b801449-a6cc-432b-aeda-343ba0bfd211)  | ![](screenshots/book-list.png) |
+| Login Page                                                                                   | Register page                                                                              |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/f89b924c-bd43-4860-aeba-7f382c9acb13)    | ![image](https://github.com/user-attachments/assets/4b801449-a6cc-432b-aeda-343ba0bfd211)  | 
 
-| Book Details             | Admin Panel                       | something about admin                                                                                         |                         
-|--------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------|
-| ![](screenshots/book-detail.png) | ![](screenshots/admin.png) | ![image](https://github.com/user-attachments/assets/b0d99f41-aee5-4c5a-bbe5-f04ed150a752)
+| Admin Home Page                                                                           | All New Books Page                                                                            |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/1c849dcf-9013-416b-ae24-c34c189147bd) | ![image](https://github.com/user-attachments/assets/b0d99f41-aee5-4c5a-bbe5-f04ed150a752) | 
+
+
+![image](https://github.com/user-attachments/assets/2f40e85d-371a-4058-85c3-e906b33ae01f)
+
+
+
+Admin operations
+
+| Admin Home Page                                                                           | Add Books Page                                                                            |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/1c849dcf-9013-416b-ae24-c34c189147bd) | ![image](https://github.com/user-attachments/assets/6acf6e1d-3801-4c6f-be58-6706190435a0) | 
+
+
+| Admin Home Page                                                                           | Admin All Books Page                                                                      |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/1c849dcf-9013-416b-ae24-c34c189147bd) | ![image](https://github.com/user-attachments/assets/0e555b5c-d1e8-4672-8b71-6cf460588229) | 
+
+
+| Admin All Orders Page                                                                     | Admin Logout Successfully Page                                                                      |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/1e10a00d-ff65-43b2-b6a6-0be157077e87) | ![image](https://github.com/user-attachments/assets/6c2858bc-7c98-4e7e-8120-6741023ca19b) | 
+
+
+
+
+
+
 
 | Edit profile page                                                                         | Settings page                        | Contact page                                                                 |                                               
 |----------------------------------------------------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------|
