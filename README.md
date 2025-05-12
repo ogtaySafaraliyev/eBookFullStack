@@ -27,7 +27,7 @@ This application replaces traditional library systems and mitigates the challeng
 ### Frontend
 
 - **JSP**  
-  Enables a dynamic, component-based UI. React's virtual DOM allows fast rendering and state management for interactive interfaces.
+  Classic web technologies combined with JSP (Java Server Pages) for rendering dynamic content on the server side. JavaScript enhances interactivity and DOM manipulation.
 
 - **Bootstrap 4**  
   Used for mobile-first, responsive design. It helps maintain consistent UI/UX styling and provides ready-to-use components.
