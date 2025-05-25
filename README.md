@@ -122,6 +122,10 @@ User operations
 | ![image](https://github.com/user-attachments/assets/25ebe079-e9f7-47eb-9f06-fe171236f327) | ![image](https://github.com/user-attachments/assets/30fd558d-e36c-43ea-810c-86e99c540ffd) | 
 
 
+| Books In Cart And Details Of User Order                                                   | After Deletion Book From Cart                                                             |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/563b0b4d-19de-46fa-a3aa-ebf465de9293) | ![image](https://github.com/user-attachments/assets/6dce547c-7d81-48ab-910a-dd19ba2676db) | 
+
 
 > 📌 *Please upload these screenshots in a folder named `screenshots/` inside the project directory.*
 
